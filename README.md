@@ -1,4 +1,4 @@
-# httpbin(1): HTTP Request & Response Service
+# EmployeeRecordSystem
 
 
 A [Kenneth Reitz](http://kennethreitz.org/bitcoin) Project.
@@ -7,17 +7,17 @@ A [Kenneth Reitz](http://kennethreitz.org/bitcoin) Project.
 
 Run locally:
 ```sh
-docker pull kennethreitz/httpbin
-docker run -p 80:80 kennethreitz/httpbin
+docker pull kennethreitz/EmployeeRecordSystem
+docker run -p 80:80 kennethreitz/EmployeeRecordSystem
 ```
 
-See http://httpbin.org for more information.
+See http://EmployeeRecordSystem.org for more information.
 
 ## Officially Deployed at:
 
-- http://httpbin.org
-- https://httpbin.org
-- https://hub.docker.com/r/kennethreitz/httpbin/
+- http://EmployeeRecordSystem.org
+- https://EmployeeRecordSystem.org
+- https://hub.docker.com/r/kennethreitz/EmployeeRecordSystem/
 
 
 ## SEE ALSO
@@ -28,4 +28,4 @@ See http://httpbin.org for more information.
 
 ## Build Status
 
-[![Build Status](https://travis-ci.org/requests/httpbin.svg?branch=master)](https://travis-ci.org/requests/httpbin)
+[![Build Status](https://travis-ci.org/requests/EmployeeRecordSystem.svg?branch=master)](https://travis-ci.org/requests/EmployeeRecordSystem)
